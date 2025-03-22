@@ -4,6 +4,7 @@
 
 - <b>Power Bi Projects</b>
   - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Netflix-Data-Analysis-Power-BI-Dashboard)
+  - [HR-Analytics-Dashboard-Power-BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
